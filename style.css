@@ -1,0 +1,24 @@
+.hightlight{
+    color: blue;
+    text-align: center;
+}
+a{
+ text-decoration: none;
+}
+.asd{
+    color: brown;
+    text-align: center;
+}
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ol{
+    display: flex;
+    gap: 300px;
+}
+button:hover{
+    background-color: aqua;
+    font-size: larger;
+    transition: 3s;
+}
